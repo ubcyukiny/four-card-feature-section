@@ -22,11 +22,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+### Desktop
+
+![](./screenshot-desktop.png)
+
+### Mobile
+
+![](./screenshot-mobile.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [link](https://ubcyukiny.github.io/four-card-feature-section/)
 
 ## My process
 
@@ -35,7 +41,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [CSS Tailwind](https://tailwindcss.com/) - CSS framework
