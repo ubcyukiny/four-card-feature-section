@@ -13,7 +13,7 @@ export default {
         veryLightGray: "#fafafa",
       },
       boxShadow: {
-        custom: "0 4px 6px rgba(131, 166, 210, 0.5)",
+        custom: "0 4px 20px rgba(131, 166, 210, 0.5)",
       },
 
       fontFamily: {

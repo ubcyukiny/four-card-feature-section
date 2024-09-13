@@ -39,7 +39,7 @@ function App() {
       <main className="bg-veryLightGray flex flex-col items-center justify-center gap-[4.75rem] px-[2rem] py-[4.875rem] lg:gap-16">
         <div className="text-veryDarkBlue flex h-[10.063rem] w-[19.438rem] flex-col items-center justify-center gap-4 font-poppins lg:h-[10.5rem] lg:w-[33.75rem]">
           <h1 className="text-2xl font-semibold tracking-[.011rem] lg:text-4xl lg:tracking-[.016rem]">
-            <div className="pb-[.063rem] font-extralight">
+            <div className="pb-[.063rem] font-extralight lg:pb-4">
               Reliable, efficient delivery
             </div>
             <div>Powered by Technology</div>

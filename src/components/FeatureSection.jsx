@@ -1,7 +1,7 @@
 const FeatureSection = ({ feature, description, icon, borderColor }) => {
   return (
     <div
-      className="text-veryDarkBlue shadow-custom relative flex h-[13.875rem] w-[19.438rem] flex-col rounded-lg border-t-[.222rem] bg-white stroke-[#979797] p-[1.75rem] font-poppins lg:h-[15.625rem] lg:w-[21.875rem] lg:p-8"
+      className="text-veryDarkBlue shadow-custom relative flex h-[13.875rem] w-[19.438rem] flex-col rounded-lg border-t-[.222rem] bg-white stroke-[#979797] p-[1.75rem] font-poppins lg:h-[15.625rem] lg:w-[21.875rem] lg:border-t-[.25rem] lg:p-8"
       style={{ borderColor: borderColor }}
     >
       <h2 className="text-xl font-semibold lg:pb-[6px]">{feature}</h2>
